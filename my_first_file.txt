@@ -1,3 +1,4 @@
 Here's another mistake.
 This time, the file will be staged.
 
+The file has been committed.
